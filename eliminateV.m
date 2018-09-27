@@ -1,0 +1,1 @@
+function [Aout, bout] = eliminateV(A,b)
